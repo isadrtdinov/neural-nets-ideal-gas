@@ -1,4 +1,4 @@
-# Source code for AISTATS-2026 submission "Can Training Dynamics of Scale-Invariant Neural Networks Be Explained by the Thermodynamics of an Ideal Gas?"
+# Source code for paper "Can Training Dynamics of Scale-Invariant Neural Networks Be Explained by the Thermodynamics of an Ideal Gas?"
 
 ## Requirements
 
